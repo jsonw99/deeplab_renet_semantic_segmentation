@@ -2,7 +2,7 @@
 the original post can be found here https://github.com/DrSleep/tensorflow-deeplab-resnet
 
 ### 1. preparation
-the pretrained "DeepLab-ResNet-TensorFlow" model should be download to the "./trained_model/" directory with the following link https://drive.google.com/open?id=0B_rootXHuswsVGY4ZFRydXJBR1E
+the pretrained "DeepLab-ResNet-TensorFlow" model should be download to the "./trained_model/" directory with the following link [deeplab_resnet](https://drive.google.com/open?id=0B_rootXHuswsVGY4ZFRydXJBR1E)
 
 ### 2. test
 to test a single image, we can run the following
